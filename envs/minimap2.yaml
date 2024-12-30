@@ -1,0 +1,4 @@
+name: minimap2_env
+dependencies:
+  - minimap2
+  - samtools

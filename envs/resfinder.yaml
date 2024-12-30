@@ -1,0 +1,4 @@
+name: resfinder_env
+dependencies:
+  - resfinder
+  - kma

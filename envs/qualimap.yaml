@@ -1,0 +1,3 @@
+name: qualimap_env
+dependencies:
+  - qualimap

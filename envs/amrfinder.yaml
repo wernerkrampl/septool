@@ -1,0 +1,3 @@
+name: amrfinder_env
+dependencies:
+  - ncbi-amrfinderplus

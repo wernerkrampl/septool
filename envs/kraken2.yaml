@@ -1,0 +1,3 @@
+name: kraken2_env
+dependencies:
+  - kraken2
